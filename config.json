@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartsave",
+        "uuid": 2062334,
+        "checksum": "guld6c"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
